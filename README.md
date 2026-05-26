@@ -1,4 +1,4 @@
-# FEATURE_GRAM Matrix Optimizer Stack
+# Megaprop
 
 Cross-repo control repository for the FEATURE_GRAM matrix optimizer integration.
 
@@ -15,7 +15,7 @@ This repository intentionally uses Git submodules, not copied source trees. Each
 ## Checkout
 
 ```bash
-git clone --recurse-submodules https://github.com/plugyawn/feature-gram-matrix-optimizer-stack.git
+git clone --recurse-submodules https://github.com/plugyawn/Megaprop.git
 ```
 
 To refresh to the branch tips declared in `.gitmodules`:
