@@ -1,0 +1,12 @@
+[submodule "Megatron-LM"]
+	path = Megatron-LM
+	url = https://github.com/plugyawn/Megatron-LM.git
+	branch = codex/feature-gram-matrix-optimizers
+[submodule "Emerging-Optimizers"]
+	path = Emerging-Optimizers
+	url = https://github.com/plugyawn/Emerging-Optimizers.git
+	branch = codex/feature-gram-matrix-optimizers
+[submodule "TransformerEngine"]
+	path = TransformerEngine
+	url = https://github.com/plugyawn/TransformerEngine.git
+	branch = codex/feature-gram-matrix-optimizers
