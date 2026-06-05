@@ -1,7 +1,7 @@
 <div align = center>
   
   # Megaprop
-Large-scale distributed MoE training with powerful right-preconditioned optimizers!
+Large-scale distributed MoE training with powerful right-preconditioned optimizers, now over Megatron-LM and TransformerEngine!
   
 </div>
 
