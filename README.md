@@ -13,6 +13,7 @@ However,
 <img width="611" height="585" alt="Image" src="https://github.com/user-attachments/assets/81aac8a8-7711-4595-861d-78aa8e55cb5c" />
 
 Hence, by adding support  to route the  `_feature_gram_` ($X^T X$) _*beside*_ the `main_grad` ($dY^TX$), via a series of changes into `TransformerEngine`, `Megatron-LM`, and `Emerging-Optimizers`, with the possibility for a neat abstraction:
+
 <img width="539" height="166" alt="Image" src="https://github.com/user-attachments/assets/7304e3ac-00d3-495e-917e-e7efa9fdcb59" />
 
 ## Experiments
