@@ -1,7 +1,7 @@
 [submodule "Megatron-LM"]
 	path = Megatron-LM
 	url = https://github.com/plugyawn/Megatron-LM.git
-	branch = codex/feature-gram-matrix-optimizers
+	branch = codex/feature-gram-on-muon-spectral-mup
 [submodule "Emerging-Optimizers"]
 	path = Emerging-Optimizers
 	url = https://github.com/plugyawn/Emerging-Optimizers.git
