@@ -1,7 +1,7 @@
 <div align = center>
   
   # Megaprop
-Pedagogical, non-frontier training with non-powerful right-preconditioned optimizers, now over Megatron-LM and TransformerEngine!
+Pedagogical, non-frontier training with non-powerful right-preconditioned optimizers!
   
 </div>
 
