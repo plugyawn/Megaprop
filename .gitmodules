@@ -9,4 +9,4 @@
 [submodule "TransformerEngine"]
 	path = TransformerEngine
 	url = https://github.com/plugyawn/TransformerEngine.git
-	branch = codex/feature-gram-matrix-optimizers
+	branch = feature/extra-wgrad-feature-gram
