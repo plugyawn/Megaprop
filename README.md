@@ -1,7 +1,9 @@
 <div align = center>
   
   # Megaprop
-Pedagogical, non-frontier training with non-powerful right-preconditioned optimizers!
+Preconditioned Stochastic Gradient Descent primitives for FOOF, KFAC, Locoprop-S, and Newton-Muon with FSDP and out-of-the-box MuP support!
+<img width="1268" height="974" alt="image" src="https://github.com/user-attachments/assets/3be4bd1f-5711-45c7-950d-843303b01420" />
+
   
 </div>
 
