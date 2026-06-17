@@ -3,8 +3,8 @@
   # Megaprop
 Preconditioned Stochastic Gradient Descent primitives for FOOF, KFAC, Locoprop-S, and Newton-Muon with FSDP and out-of-the-box MuP support!
 
-
-<img width="1268" height="974" alt="image" src="https://github.com/user-attachments/assets/3be4bd1f-5711-45c7-950d-843303b01420" />
+<img width="1253" height="979" alt="image" src="https://github.com/user-attachments/assets/f3c08544-0b22-46bf-bc97-ecc7b3e457ec" />
+<img width="1253" height="979" alt="image" src="https://github.com/user-attachments/assets/1de090cf-12a1-45f8-bd59-0ac38177fa1e" />
 
   
 </div>
