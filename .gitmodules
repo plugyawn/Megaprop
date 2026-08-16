@@ -10,3 +10,7 @@
 	path = TransformerEngine
 	url = https://github.com/plugyawn/TransformerEngine.git
 	branch = feature/extra-wgrad-feature-gram
+[submodule "SliderQuant"]
+	path = SliderQuant
+	url = https://github.com/agarwal-mihir/SliderQuant.git
+	branch = main
